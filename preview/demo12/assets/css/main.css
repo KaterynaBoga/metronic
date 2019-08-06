@@ -1,0 +1,33 @@
+.logo-menu-left {
+    text-align: center;
+}
+.logo-menu-left img{
+    width: 150px;
+}
+.user-name {
+    font-weight: bold;
+    color: white;
+    margin: 0 0 0 5px;
+    padding: 0;
+}
+.thumbnails .vendor-box {
+    width: 170px;
+    display: inline-block;
+    float: left;
+    margin: 5px;
+}
+.kt-widget2__item.kt-widget2__item--primary .kt-widget2__info {
+    display: block;
+}
+
+.kt-widget2__info img {
+    display: block;
+    width: 50px;
+    margin-left: 28px;
+    margin-right: 10px;
+    float: left;
+}
+
+.dropdown-button {
+    margin-left: 5px;
+}
